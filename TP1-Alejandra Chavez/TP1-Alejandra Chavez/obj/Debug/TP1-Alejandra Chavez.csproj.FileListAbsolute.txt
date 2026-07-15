@@ -1,0 +1,7 @@
+C:\Users\aleja\OneDrive\Documentos\TP1-Alejandra Chavez\TP1-Alejandra Chavez\bin\Debug\TP1-Alejandra Chavez.exe.config
+C:\Users\aleja\OneDrive\Documentos\TP1-Alejandra Chavez\TP1-Alejandra Chavez\bin\Debug\TP1-Alejandra Chavez.exe
+C:\Users\aleja\OneDrive\Documentos\TP1-Alejandra Chavez\TP1-Alejandra Chavez\bin\Debug\TP1-Alejandra Chavez.pdb
+C:\Users\aleja\OneDrive\Documentos\TP1-Alejandra Chavez\TP1-Alejandra Chavez\obj\Debug\TP1-Alejandra Chavez.csproj.AssemblyReference.cache
+C:\Users\aleja\OneDrive\Documentos\TP1-Alejandra Chavez\TP1-Alejandra Chavez\obj\Debug\TP1-Alejandra Chavez.csproj.CoreCompileInputs.cache
+C:\Users\aleja\OneDrive\Documentos\TP1-Alejandra Chavez\TP1-Alejandra Chavez\obj\Debug\TP1-Alejandra Chavez.exe
+C:\Users\aleja\OneDrive\Documentos\TP1-Alejandra Chavez\TP1-Alejandra Chavez\obj\Debug\TP1-Alejandra Chavez.pdb
